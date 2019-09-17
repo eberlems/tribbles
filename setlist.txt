@@ -3,8 +3,14 @@ tribbles.txt
 
 1
 Standard
-4
-Tribble
+10
 TwT
-MTMT
 NTAA
+MTMT
+Tribble
+VP
+TaTa
+NBT
+BTLQ
+TR
+50th
