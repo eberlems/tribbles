@@ -7,9 +7,9 @@ plugins/tribbles/setlist.txt	https://raw.githubusercontent.com/eberlems/tribbles
 plugins/tribbles/saved/start.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/saved/start.txt	53035
 plugins/tribbles/sets/tribbles.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/tribbles.txt	2744521
 plugins/tribbles/sets/trouble.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/trouble.txt	323100
-plugins/tribbles/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/setimages/general/cardback.jpg	222055
-plugins/tribbles/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/setimages/general/CardMissing.jpg	24053
-plugins/tribbles/sets/setimages/general/Spawned.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/setimages/general/Spawned.jpg	236105
+plugins/tribbles/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/setimages/general/cardback.jpg	179863
+plugins/tribbles/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/setimages/general/CardMissing.jpg	177461
+plugins/tribbles/sets/setimages/general/Spawned.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/setimages/general/Spawned.jpg	163676
 plugins/tribbles/av-st-back.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/av-st-back.jpg	5386
 images/avatars/av-tr-data1.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/av-tr-data1.jpg	-4777
 images/avatars/av-tr-data2.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/av-tr-data2.jpg	13891
