@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>161013</lastupdateYYMMDD>
-<versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/updatelist.txt</updateurl>
-<message>corrected a spelling error</message>
+<lastupdateYYMMDD>190917</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/eberlems/tribbles/playable/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/eberlems/tribbles/playable/updatelist.txt</updateurl>
+<message>automated export with VPs</message>
 </version>
