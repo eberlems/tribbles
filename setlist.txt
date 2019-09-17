@@ -4,11 +4,11 @@ tribbles.txt
 1
 Standard
 10
+VP
 TwT
 NTAA
 MTMT
 Tribble
-VP
 TaTa
 NBT
 BTLQ
