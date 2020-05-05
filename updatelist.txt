@@ -1,11 +1,11 @@
-tribbles	09-17-19
+tribbles	05-05-20
 plugins/tribbles/defaultchat.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/defaultchat.txt	22546
-plugins/tribbles/formats.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/formats.txt	20509
+plugins/tribbles/formats.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/formats.txt	21996
 plugins/tribbles/plugininfo.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/plugininfo.txt	533096
-plugins/tribbles/version.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/version.txt	29281
-plugins/tribbles/setlist.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/setlist.txt	5423
+plugins/tribbles/version.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/version.txt	29480
+plugins/tribbles/setlist.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/setlist.txt	5947
 plugins/tribbles/saved/start.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/saved/start.txt	53113
-plugins/tribbles/sets/tribbles.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/tribbles.txt	2744672
+plugins/tribbles/sets/tribbles.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/tribbles.txt	3045890
 plugins/tribbles/sets/trouble.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/trouble.txt	323458
 plugins/tribbles/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/setimages/general/cardback.jpg	179863
 plugins/tribbles/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/setimages/general/CardMissing.jpg	177461

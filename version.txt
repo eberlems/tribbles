@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>190917</lastupdateYYMMDD>
+<lastupdateYYMMDD>200505</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/tribbles/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/tribbles/playable/updatelist.txt</updateurl>
-<message>automated export with VPs</message>
+<message>A Tribble of a Different Color</message>
 </version>

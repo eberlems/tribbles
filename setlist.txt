@@ -3,7 +3,7 @@ tribbles.txt
 
 1
 Standard
-10
+11
 VP
 TwT
 NTAA
@@ -14,3 +14,4 @@ NBT
 BTLQ
 TR
 50th
+toadc
