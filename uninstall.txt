@@ -1,0 +1,5 @@
+<uninstall>
+<dateYYMMDD>210301</dateYYMMDD>
+<removepath>sets/setimages/general/145V.jpg</removepath>
+<removepath>sets/setimages/general/141V.jpg</removepath>
+</uninstall>
