@@ -183,17 +183,22 @@ Name	Set	ImageFile	Info	Type	Count	Text
 10 Tribbles - Replicate *VP	VP	43VTP	43VT	Replicate	10	If an opponent's action places this tribble in your discard pile (or play pile) you may place an addition card from hand in your discard pile (or play pile).
 100 Tribbles - Replicate *VP	VP	44VTP	44VT	Replicate	100	If an opponent's action places this tribble in your discard pile (or play pile) you may place an addition card from hand in your discard pile (or play pile).
 100,000 Tribbles - Assimilate *VP	VP	46VTP	46VT	Assimilate	100000	Choose a player. Take the top card from that player's draw deck and place it on your play pile. (Return that tribble at the end of the round or if it leaves your tribble pile.)
+1 Tribble - Process *VP	VP	47VTP	47VT	Process	1	Draw three cards, then choose two cards from hand to place beneath your draw deck.
+1,000 Tribbles - Process *VP	VP	48VTP	48VT	Process	1000	Draw three cards, then choose two cards from hand to place beneath your draw deck.
+10 Tribbles - Advance *VP	VP	49VTP	49VT	Advance	10	You may play this tribble in place of 1 tribble if the sequence was "broken."
+100,000 Tribbles - Dance *VP	VP	50VTP	50VT	Dance	100000	If you have Skip, Reverse, Skip, Reverse, Skip, Reverse in your play pile (in that order, ignoring other cards), score 100,000 points.
+1,000 Tribbles - Exchange *VP	VP	42VTP	42VT	Exchange	1000	Discard a tribble from hand to take a tribble into hand from your discard pile.
 1 Tribble - Beam	toadc	136V	136V	Beam	1	If this tribble is in your play pile at the end of the round and you did not go out, you may exchange places with any other player.
 1 Tribble - Kindness	toadc	137V	137V	Kindness	1	Draw a card. Each player that has four or more cards in hand may place one card from hand on the bottom of their play pile. Then you may place a card from hand on the bottom of your deck.
 1 Tribble - Mirror	toadc	138V	138V	Mirror	1	When any other player scores points by activating a tribble power, if this tribble is on top of your play pile, score an equal number of points.
 1 Tribble - Recycle	toadc	139V	139V	Recycle	1	Choose a player to shuffle his or her discard pile into his or her draw deck.
 10 Tribbles - Decloak	toadc	140V	140V	Decloak	10	While this tribble is on top of your play pile, no player may activate a tribble power if the previous tribble in their play pile had a matching power.
-10 Tribbles - Generosity	toadc	141V	141V	Generosity	10	You and one other player (your choice) each score 50,000 points. Draw a card.
+10 Tribbles - Generosity	toadc	141V	141V	Generosity	10	You and one other player (your choice) each score 25,000 points. Draw a card.
 10 Tribbles - Time Warp	toadc	142V	142V	Time Warp	10	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 10 Time Warp tribbles in your play pile).
 100 Tribbles - Cheat	toadc	143V	143V	Cheat	100	You may skip a number in the sequence to play this card.
 100 Tribbles - Decloak	toadc	144V	144V	Decloak	100	While this tribble is on top of your play pile, no player may activate a tribble power if the previous tribble in their play pile had a matching power.
-100 Tribbles - Laughter	toadc	145V	145V	Laughter	100	Choose a player to discard a card, then choose a different player to place a card from hand on the bottom of their deck. If you did not choose yourself, score 50,000 points.
-1,000 Tribbles - IDIC	toadc	146V	146V	IDIC	1000	If you go out, score 10,000 points for each different tribble power in your play pile ( not cumulative with other 1 IDIC tribbles in your play pile ).
+100 Tribbles - Laughter	toadc	145V	145V	Laughter	100	Choose a player to discard a card, then choose a different player to place a card from hand on the bottom of their deck. If you did not choose yourself, score 25,000 points.
+1,000 Tribbles - IDIC	toadc	146V	146V	IDIC	1000	If you go out, score 10,000 points for each different tribble power in your play pile ( not cumulative with other 1000 IDIC tribbles in your play pile ).
 1,000 Tribbles - Magic	toadc	147V	147V	Magic	1000	If you have at least one each of Generosity, Honesty, Laughter, Loyalty, and Kindness tribbles in your play pile, you may put up to six cards in your hand beneath your deck.
 1,000 Tribbles - Reveal	toadc	148V	148V	Reveal	1000	All players reveal a tribble from hand at the same time. If any power or number matches yours, place your tribble anywhere in your play pile (except on top).
 10,000 Tribbles - Double	toadc	149V	149V	Double	10000	When you score Bonus, if this tribble is in your play pile, score an additional 100,000 points (not cumulative with other 10,000 Double tribbles in your play pile).
@@ -201,3 +206,4 @@ Name	Set	ImageFile	Info	Type	Count	Text
 100,000 Tribbles - Flash	toadc	151V	151V	Flash	100000	All players reveal the top card of their draw deck. If it is a Bonus or Discard tribble, place it beneath its owner's play pile. Otherwise, place it beneath its owner's draw deck.
 100,000 Tribbles - Loyalty	toadc	152V	152V	Loyalty	100000	While this tribble is in your play pile, if you did not go out, you may also benefit from Roll, Safety, and Time Warp tribbles in the play pile of any one other player.
 100,000 Tribbles - Trick	toadc	153V	153V	Trick	100000	If the player before you activates a Reverse power, you may reveal this tribble from hand and place it beneath your play pile.
+1,000 Tribbles - Safety *VP	VP	51VTP	51VT	Safety	1000	If this tribble is in your play pile at the end of the round, you may shuffle your hand into your draw deck instead of placing your hand in your discard pile.
