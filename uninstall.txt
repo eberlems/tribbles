@@ -2,4 +2,9 @@
 <dateYYMMDD>210301</dateYYMMDD>
 <removepath>sets/setimages/general/145V.jpg</removepath>
 <removepath>sets/setimages/general/141V.jpg</removepath>
+<removepath>sets/setimages/general/47VTP.jpg</removepath>
+<removepath>sets/setimages/general/48VTP.jpg</removepath>
+<removepath>sets/setimages/general/49VTP.jpg</removepath>
+<removepath>sets/setimages/general/50VTP.jpg</removepath>
+<removepath>sets/setimages/general/51VTP.jpg</removepath>
 </uninstall>
