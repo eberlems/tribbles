@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>200304</lastupdateYYMMDD>
+<lastupdateYYMMDD>210304</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/tribbles/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/tribbles/playable/updatelist.txt</updateurl>
 <message>2021 March VPs and Errata</message>
