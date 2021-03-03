@@ -1,8 +1,8 @@
-tribbles	03-02-21
+tribbles	03-03-21
 plugins/tribbles/defaultchat.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/defaultchat.txt	22546
 plugins/tribbles/formats.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/formats.txt	21996
 plugins/tribbles/plugininfo.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/plugininfo.txt	533096
-plugins/tribbles/version.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/version.txt	28813
+plugins/tribbles/version.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/version.txt	28814
 plugins/tribbles/setlist.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/setlist.txt	5947
 plugins/tribbles/saved/start.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/saved/start.txt	53113
 plugins/tribbles/sets/tribbles.txt	https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/tribbles.txt	3124107
@@ -18,6 +18,6 @@ images/avatars/av-tr-worf1.jpg	https://raw.githubusercontent.com/eberlems/tribbl
 images/avatars/av-tr-worf2.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/av-tr-worf2.jpg	3062
 images/backgrounds/bg-tr-plain.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/bg-st-plain.jpg	-2796
 plugins/tribbles/bot.jpg	https://raw.githubusercontent.com/eberlems/tribbles/playable/bot.jpg	6383
-plugins/startrek1e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/uninstall.txt	15158
+plugins/tribbles/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek1e/playable/uninstall.txt	42621
 CardGeneralURLs:		
 https://raw.githubusercontent.com/eberlems/tribbles/playable/sets/setimages/general/
