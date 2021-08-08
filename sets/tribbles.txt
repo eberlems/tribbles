@@ -207,3 +207,7 @@ Name	Set	ImageFile	Info	Type	Count	Text
 100,000 Tribbles - Loyalty	toadc	152V	152V	Loyalty	100000	While this tribble is in your play pile, if you did not go out, you may also benefit from Roll, Safety, and Time Warp tribbles in the play pile of any one other player.
 100,000 Tribbles - Trick	toadc	153V	153V	Trick	100000	If the player before you activates a Reverse power, you may reveal this tribble from hand and place it beneath your play pile.
 1,000 Tribbles - Safety *VP	VP	51VTP	51VT	Safety	1000	If this tribble is in your play pile at the end of the round, you may shuffle your hand into your draw deck instead of placing your hand in your discard pile.
+10 Tribbles - Draw *VP	VP	53VTP	53VT	Draw	10	Choose a player. He or she must draw a card.
+100 Tribbles - Draw *VP	VP	54VTP	54VT	Draw	100	Choose a player. He or she must draw a card.
+100 Tribbles - Evade *VP	VP	55VTP	55VT	Evade	100	While this tribble is on top of your play pile, you may choose not to draw a card if you do not play the next card in sequence. (The chain is still broken.)
+100,000 Tribbles - Confront *VP	VP	56VTP	56VT	Confront	100000	Draw a card, then reveal a tribble from hand. If no other player can reveal a tribble with the same power from their hand, you may place your revealed tribble beneath your play pile.
