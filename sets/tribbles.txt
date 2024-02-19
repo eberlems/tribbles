@@ -211,3 +211,19 @@ Name	Set	ImageFile	Info	Type	Count	Text
 100 Tribbles - Draw *VP	VP	54VTP	54VT	Draw	100	Choose a player. He or she must draw a card.
 100 Tribbles - Evade *VP	VP	55VTP	55VT	Evade	100	While this tribble is on top of your play pile, you may choose not to draw a card if you do not play the next card in sequence. (The chain is still broken.)
 100,000 Tribbles - Confront *VP	VP	56VTP	56VT	Confront	100000	Draw a card, then reveal a tribble from hand. If no other player can reveal a tribble with the same power from their hand, you may place your revealed tribble beneath your play pile.
+10,000 Tribbles - Replicate *VP	VP	45VTP	45VT	Replicate	10000	If an opponent's action places this tribble in your discard pile (or play pile) you may place an addition card from hand in your discard pile (or play pile).
+1 Tribble - Replay *VP	VP	57VTP	57VT	Replay	1	Search your play pile for a tribble and play it again.
+1 Tribble - Clone & Reverse *VP	VP	58VTP	58VT	Clone;Reverse	1	Reverse the direction of play from clockwise to counterclockwise (or vice versa). This tribble may be played even when it has the same number of tribbles as the last card played.
+10,000 Tribbles - Double *VP	VP	59VTP	59VT	Double	10000	When you score Bonus, if this tribble is in your play pile, score an additional 100,000 points (not cumulative with other 10,000 Double tribbles in your play pile).
+10,000 Tribbles - Swarm *VP	VP	60VTP	60VT	Swarm	10000	Draw a card. Score 10,000 points for every other Swarm tribble in your play pile.
+100 Tribbles - Exchange *VP	VP	61VTP	61VT	Exchange	100	Discard a tribble from hand to take a tribble into hand from your discard pile.
+10,000 Tribbles - Acquire *VP	VP	65VTP	65VT	Acquire	10000	Name a tribble power. If the next tribble played is that power, score points equal to the number of tribbles on that card.
+1 Tribble - Convert *VP	VP	62VTP	62VT	Convert	1	Place this tribble beneath your draw deck, then place the top card of your draw deck on your play pile.
+100 Tribbles - Cheat *VP	VP	63VTP	63VT	Cheat	100	You may skip a number in the sequence to play this card.
+100 Tribbles - Rescue *VP	VP	64VTP	64VT	Rescue	100	Look through your discard pile and recover a card. Place it face-down on top of your draw deck - or, if it has the proper number of tribbles, you may play it now.
+10,000 Tribbles - Exchange *VP	VP	66VTP	66VT	Exchange	10000	Discard a tribble from hand to take a tribble into hand from your discard pile.
+10 Tribbles - Lock	VP	67VTP	67VT	Lock	10	Choose a player. Until the end of your next turn, that player may not score points from activating tribble powers (except by going out).
+100 Tribbles - Organize	VP	68VTP	68VT	Organize	100	Place this tribble next to your play pile. If you activate Battle, Rescue, or a tribble power to score points, place
+this card out of play. At the end of the round, place this tribble in your play pile and score 10,000 points.
+1,000 Tribbles - Party	VP	69VTP	69VT	Party	1000	To activate this tribble power, you must have at least two other cards in hand. All players randomly place a card from hand beneath their play pile.
+10,000 Tribbles - Hate	VP	70VTP	70VT	Hate	10000	Choose another player that scored points by activating a tribble power on their previous turn. They are Skipped on their next turn (and may respond as if affected by a Skip tribble).
