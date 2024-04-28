@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>240219</lastupdateYYMMDD>
+<lastupdateYYMMDD>240429</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/tribbles/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/tribbles/playable/updatelist.txt</updateurl>
-<message>2024 February VPs</message>
+<message>Release Bad Brood Rising</message>
 </version>
