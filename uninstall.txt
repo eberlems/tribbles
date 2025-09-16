@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>240428</dateYYMMDD>
+<dateYYMMDD>250914</dateYYMMDD>
 <removepath>sets/setimages/general/145V.jpg</removepath>
 <removepath>sets/setimages/general/141V.jpg</removepath>
 <removepath>sets/setimages/general/47VTP.jpg</removepath>
@@ -11,4 +11,14 @@
 <removepath>sets/setimages/general/54VTP.jpg</removepath>
 <removepath>sets/setimages/general/55VTP.jpg</removepath>
 <removepath>sets/setimages/general/56VTP.jpg</removepath>
+<removepath>sets/setimages/general/60VTP.jpg</removepath>
+<removepath>sets/setimages/general/62VTP.jpg</removepath>
+<removepath>sets/setimages/general/63VTP.jpg</removepath>
+<removepath>sets/setimages/general/64VTP.jpg</removepath>
+<removepath>sets/setimages/general/65VTP.jpg</removepath>
+<removepath>sets/setimages/general/66VTP.jpg</removepath>
+<removepath>sets/setimages/general/67VTP.jpg</removepath>
+<removepath>sets/setimages/general/68VTP.jpg</removepath>
+<removepath>sets/setimages/general/69VTP.jpg</removepath>
+<removepath>sets/setimages/general/70VTP.jpg</removepath>
 </uninstall>

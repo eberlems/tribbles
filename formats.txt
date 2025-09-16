@@ -4,7 +4,7 @@
 	<set>VP</set>
 	<set>TwT</set>
 	<set>NTAA</set>
-	<set> MTMT</set>
+	<set>MTMT</set>
 	<set>Tribble</set>
 	<set>TaTa</set>
 	<set>NBT</set>
@@ -12,5 +12,6 @@
 	<set>TR</set>
 	<set>50th</set>
 	<set>toadc</set>
+	<set>bbr</set>
 </format>
 </formatdefinitions>
