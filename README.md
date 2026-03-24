@@ -21,6 +21,6 @@ update the date, version number and add short changes version.txt
 
 Set new date at the top of updatelist.txt
 
-generate new checksum /mkupdate plugins/tribbles/updatelist.txt
+generate new checksum ```/mkupdate plugins/tribbles/updatelist.txt```
 
 make new PR
